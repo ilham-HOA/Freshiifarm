@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45446423002",
+    "project_id": "freshiifarm",
+    "storage_bucket": "freshiifarm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45446423002:android:c31a4719496a5a0565e0e3",
+        "android_client_info": {
+          "package_name": "com.example.freshiifarm_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIBlLKCIll1Z59aV-HRvQLFlJerOBzSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45446423002:android:359e2c82c72e57a165e0e3",
+        "android_client_info": {
+          "package_name": "com.example.freshiifarm_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIBlLKCIll1Z59aV-HRvQLFlJerOBzSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
